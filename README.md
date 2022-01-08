@@ -5,4 +5,4 @@ Hi I'm Conor and I am from New York and living in Dublin, Ireland. I am currentl
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maccon94)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Conor-McDonnell)](https://github.com/anuraghazra/github-readme-stats)
